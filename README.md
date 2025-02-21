@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Vinay Meshram
+# 💫 About Me
 
-## 🚀 About Me
+## 🚀 Introduction
 
 I'm an enthusiastic **Python Developer** with expertise in backend development, RESTful APIs, and cloud deployment (AWS, Azure). Skilled in Django, Flask, SQL, and NoSQL databases. Passionate about problem-solving, automation, and scalable solutions. Adept at working in Agile teams, leveraging Git for version control, and optimizing application performance.
+
+![Developer Animation](https://media.giphy.com/media/3o6Zt5pQJ0p0V6V6g0/giphy.gif)
 
 ---
 
@@ -79,71 +81,30 @@ I'm an enthusiastic **Python Developer** with expertise in backend development, 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=nosql&logoColor=white)  
+![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamvny&theme=dark&hide_border=true&count_private=true)  
-![Vinay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamvny&theme=dark&hide_border=true)  
-![Vinay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvny&theme=dark&hide_border=true&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamvny&theme=dark&hide_border=true&include_all_commits=false&count_private=false)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamvny&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvny&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Vinay's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iamvny&theme=radical&no-frame=true&no-bg=true&margin-w=4)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iamvny&theme=radical&no-frame=true&no-bg=true&margin-w=4)  
 
 ---
 
-## 💰 You can help me by Donating
+## 💰 Support Me
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/meshramvina)  
 
 ---
 
-## 📈 GitHub Activity
+*Proudly created with GPRM (https://gprm.itsvg.in)*
 
-![Vinay's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=iamvny&theme=github-dark&hide_border=true)  
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📈 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/iamvny/count.svg)  
-
----
-
-## 🧑‍💻 Current Work
-
-🔭 I’m currently working on:  
-- **Project Name**: [Project Link](#)  
-
-👯 I’m looking to collaborate on:  
-- **Project Name**: [Project Link](#)  
-
-🤝 I’m looking for help with:  
-- **Project Name**: [Project Link](#)  
-
-🌱 I’m currently learning:  
-- Frameworks, courses, etc.  
-
-💬 Ask me about:  
-- Topics of interest  
-
----
-
-## 📈 GitHub Stats
-
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamvny&theme=dark&hide_border=true&count_private=true)  
-![Vinay's GitHub St
-::contentReference[oaicite:0]{index=0}
  
