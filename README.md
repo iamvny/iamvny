@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Vinay Uday Meshram</h1>
 
 <p align="center">
-  <a href="https://your-portfolio-link">
+  <a href="https://iamvny.github.io/Portfolio-Website/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://linkedin.com/in/vinay-meshram-0277b2273">
+  <a href="https://www.linkedin.com/in/vinay-meshram-0277b2273/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:meshram.vinay2003@gmail.com">
